@@ -1,6 +1,9 @@
 # :man_technologist: ALEXANDER NAUMCHICK  
 ***
-
+## :mag: Concacts :
+:iphone: Tel : +375 (29) _**`306-18-51 (Velcom)`**_ :belarus:  
+:telephone_receiver: Viber : _**`+375 (29) 306-18-51`**_  
+:email: Email : _**`naum4ick@gmail.com`**_  
 
 ## :memo: Summary:
 
