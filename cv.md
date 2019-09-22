@@ -7,7 +7,7 @@
 
 ## :memo: Summary:
 
-> My name is Alexander Naumchick and I'm 24 years old. At the moment of my life I am learning computer technologies in Belarusian State University of Informatics and Radioelectronics on Innovative Lifelong Learning Faculty. Since 18-th February 2019 I take The Rolling Scopes Front-End Development course remotely and strive to become the Front-End Developer who can develop modern sites and web applications.
+> My name is Alexander Naumchick and I'm 25 years old. At the moment of my life I am learning computer technologies in Belarusian State University of Informatics and Radioelectronics on Innovative Lifelong Learning Faculty. Since 9th September 2019 I take The Rolling Scopes Front-End Development course remotely and strive to become the Front-End Developer who can develop modern sites and web applications.
 
 
 ## :muscle: Skills:  
