@@ -10,6 +10,25 @@
 > My name is Alexander Naumchick and I'm 24 years old. At the moment of my life I am learning computer technologies in Belarusian State University of Informatics and Radioelectronics on Innovative Lifelong Learning Faculty. Since 18-th February 2019 I take The Rolling Scopes Front-End Development course remotely and strive to become the Front-End Developer who can develop modern sites and web applications.
 
 
+## :muscle: Skills:  
+- HTML5  
+- CSS  
+- LESS  
+- SASS  
+- JavaScript (Native)  
+- Search Engline Optimisation  
+- Adobe Photoshop  
+- Adobe Lightroom  
+- Adobe Illustator  
+- Adobe After Effects (Basics)  
+- Capture One  
+- Gravit Designer  
+- Microsoft Excel  
+- Microsoft Word  
+- Advego Plagiatus  
+- Saying prayers when something goes wrong...  
+- etc.
+
 
 ## :computer: Code Examples :  
     https://github.com/AllexBlaze  
